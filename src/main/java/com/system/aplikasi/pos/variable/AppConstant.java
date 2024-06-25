@@ -6,5 +6,11 @@ public class AppConstant {
         RESET
     }
 
+   public enum StatusUser1 {
+        REGISTER,
+        ACTIVE,
+        RESET
+    }
+
 
 }
